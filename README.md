@@ -15,4 +15,4 @@ Flags:
 
 To enable aliases being available immediately upon adding them, make sure to source the .add-aliases script, or simply add an alias to do so:
 
-`alias add="source ~/bin/.add-alias"
+`alias add="source ~/bin/.add-alias"`
